@@ -64,13 +64,12 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![ML-3 1](https://github.com/PuliNagaNeeraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849173/3c1e3a87-6017-4a53-bda0-52bbeb109620)
-
-![ML-3 2](https://github.com/PuliNagaNeeraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849173/e9671b95-4e38-4897-9739-496df6115d76)
-
-![ML-3 3](https://github.com/PuliNagaNeeraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849173/77c98f25-e0ef-4d70-8bb5-b5400528b049)
-
-![ML-3 4](https://github.com/PuliNagaNeeraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849173/02b6b513-85b0-4658-9a29-7aec7a4e5ef1)
+![image](https://github.com/MounishT/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138955798/f36d843c-dec8-4e20-beff-bae78abd3026)
+![image](https://github.com/MounishT/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138955798/c947ebac-fe7d-4d8f-b960-26b96e5722a7)
+![image](https://github.com/MounishT/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138955798/540ebf93-da30-453a-855c-9dddf6296792)
+![image](https://github.com/MounishT/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138955798/7922637c-10c6-4cba-8e37-fc3769bde43e)
+![image](https://github.com/MounishT/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138955798/8ec4facd-070d-4dcb-9bd2-776d878ddf00)
+![image](https://github.com/MounishT/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138955798/5aa48b00-0395-484a-a721-aba37b9ed344)
 
 
 ## Result:
